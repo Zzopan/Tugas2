@@ -31,7 +31,7 @@ Route::controller(AuthController::class)->group(function () {
 Route::middleware('auth')->group(function () {
     Route::get('dashboard', function () {
         return view('dashboard', [
-            "judul"=>"Portal-Mahasiswa||Dashboard"
+            "judul"=>"Mahasiswa||Dashboard"
         ]);
     })->name('dashboard');
 

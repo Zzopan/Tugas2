@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Shafwan</title>
+    <title>Nadya Putri Dwinta</title>
 
     <!-- Custom fonts for this template-->
     <link href="{{ asset('admin_assets/vendor/fontawesome-free/css/all.min.css') }}" rel="stylesheet" type="text/css">
@@ -35,7 +35,7 @@
               <div class="sidebar-brand-icon rotate-n-15">
                 <i class="fas fa-laugh-wink"></i>
               </div>
-              <div class="sidebar-brand-text mx-3">Portal-Mahasiswa</div>
+              <div class="sidebar-brand-text mx-3">Mahasiswa</div>
             </a>
             
             <!-- Divider -->
@@ -113,7 +113,7 @@
             <footer class="sticky-footer bg-white">
                 <div class="container my-auto">
                     <div class="copyright text-center my-auto">
-                        <span>Copyright &copy; Portal-Mahasiswa 2023</span>
+                        <span>Copyright &copy; Mahasiswa 2023</span>
                     </div>
                 </div>
             </footer>

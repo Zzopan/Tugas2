@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('title', 'Portal-Mahasiswa || Dashboard')
+@section('title', 'Mahasiswa || Dashboard')
 
 @section('contents')
     <div class="row">
